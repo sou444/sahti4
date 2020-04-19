@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923620358653",
+    "firebase_url": "https://sahti-6a3f5.firebaseio.com",
+    "project_id": "sahti-6a3f5",
+    "storage_bucket": "sahti-6a3f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923620358653:android:23e40b56ed439360198194",
+        "android_client_info": {
+          "package_name": "com.example.slemti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923620358653-c53uc1ut1c8a75bk75bug05dt3ucnj0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4P8eRoMlJCdgxmWN6sRm7NXYoDoaEqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923620358653-c53uc1ut1c8a75bk75bug05dt3ucnj0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
